@@ -37,7 +37,7 @@
 
 The architecture follows a **microservices-based backend** with a **React frontend**, containerized via Docker and deployed on **Kubernetes**, with PostgreSQL and MongoDB databases. Queues and batch jobs are managed via AWS SQS and Batch, and image/video uploads go through S3 with GuardDuty scan wait.
 
-![Architecture Diagram](docs/Rentverse_Architecture.png) <!-- You can update this path accordingly -->
+![Architecture Diagram]([docs/Rentverse_Architecture.png](https://github.com/sriraghava9991/Rentverse/raw/main/Rentverse_Architecture.docx)) <!-- You can update this path accordingly -->
 
 ---
 
