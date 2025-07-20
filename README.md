@@ -2,7 +2,7 @@
 
 **Rentverse** is a scalable, multi-domain rental platform that enables users to rent **houses**, **cars**, and **books** with advanced features like **KYC verification**, **premium subscriptions**, **GPS tracking**, **voice call support**, and **AI-assisted metadata prefill**. Designed for real-world deployment, Rentverse ensures fairness, transparency, and powerful search and dispute resolution systems across all rental flows.
 
----
+📄 [Download Architecture Document (DOCX)](https://github.com/sriraghava9991/Rentverse/raw/main/Rentverse_Architecture.docx)
 
 ## 🚀 Features
 
@@ -36,6 +36,3 @@
 ## 🏗️ Architecture
 
 The architecture follows a **microservices-based backend** with a **React frontend**, containerized via Docker and deployed on **Kubernetes**, with PostgreSQL and MongoDB databases. Queues and batch jobs are managed via AWS SQS and Batch, and image/video uploads go through S3 with GuardDuty scan wait.
-
-📄 [Download Architecture Document (DOCX)](https://github.com/sriraghava9991/Rentverse/raw/main/Rentverse_Architecture.docx)
-
