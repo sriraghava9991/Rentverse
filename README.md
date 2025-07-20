@@ -6,7 +6,7 @@
 
 <img src="assets/RentVerse_Architecture.png" alt="RentVerse Architecture" width="800"/>
 
-📄 Rentverse Architecture [Preview](https://github.com/sriraghava9991/Rentverse/blob/main/Rentverse_Architecture.pdf) [Download](https://github.com/sriraghava9991/Rentverse/raw/main/Rentverse_Architecture.pdf)
+📄 [Rentverse Architecture Document (PDF)](https://github.com/sriraghava9991/Rentverse/raw/main/Rentverse_Architecture.pdf)
 
 ## 🚀 Features
 
